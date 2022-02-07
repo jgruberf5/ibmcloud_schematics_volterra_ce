@@ -1,0 +1,11 @@
+ibm_region = "us-south"
+ibm_zone = 1
+ibm_ssh_key_name = "jgruber"
+ibm_outside_subnet_id = "0717-5a2b5942-bfef-489a-824a-6b8bffe65a92"
+ibm_inside_subnet_id = "0717-d7c9cf2b-3dbc-4ceb-95f1-e66ae5671eb0"
+volterra_ce_version = "7.2009.5"
+volterra_tenant_name = "f5-dataai"
+volterra_site_name = "ibm-tf-test-us-south-1"
+volterra_api_token = "pLyEndZA3NlfWj+sfGLdfNKmoHg="
+volterra_ssl_tunnels = false
+volterra_ipsec_tunnels = true

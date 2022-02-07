@@ -1,0 +1,15 @@
+ibm_resource_group = "default"
+ibm_region = "us-south"
+ibm_zone = 2
+ibm_profile = "cx2-4x8"
+ibm_ssh_key_name = "test-harness-global"
+ibm_outside_subnet_id = "0727-709fa068-a43d-4eaf-b623-a456ed26880c"
+ibm_outside_security_group_id = "r006-4f561031-f2d1-4dc9-bd65-7acbbd3ebba1"
+ibm_inside_subnet_id = "0727-73c60c50-e012-4b96-a43c-e61d9419412a"
+ibm_inside_security_group_id = "r006-4f561031-f2d1-4dc9-bd65-7acbbd3ebba1"
+volterra_cluster_size = 3
+volterra_admin_password = "f5C0nfig"
+volterra_tenant_name = "f5-dataai"
+volterra_site_name = "aa-us-south-2-1"
+volterra_fleet_label = "aa-us-south-2-1"
+volterra_api_token = "pLyEndZA3NlfWj+sfGLdfNKmoHg="
